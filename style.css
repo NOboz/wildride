@@ -1,0 +1,17 @@
+body {
+	background-color:black;
+	overflow-x: hidden;
+}
+h1 {
+	line-height: 15px;
+	margin: 0 -9999rem;
+	padding: 0rem 9999rem;
+}
+p {
+	font-family: Fixedsys, Tahoma, Helvetica;
+	color:green;
+	text-align:center;
+}
+button {
+	margin: 0 auto;
+}
